@@ -1,4 +1,4 @@
 # Problem:
-# Domain: Algorithms > Warmup
+# Domain: Algorithms > Strings
 # Author: xiao0720
 
