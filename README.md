@@ -1,2 +1,2 @@
-# hackerrank
-My solutions to problems on HackerRank.
+# HackerRank
+My solutions to problems on HackerRank(hackerrank.com).
